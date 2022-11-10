@@ -1,0 +1,15 @@
+c3db98950b7bf81e5233c6d1a918dbc5 *DESCRIPTION
+9f48db84f3a23acdb7fcec70cd5a497e *NAMESPACE
+dd8e2ef9729c0ee8d6af81788395f34a *NEWS.md
+3e9743a23fbb4cad1d81eb23184cb466 *R/fetch_appleads.R
+ff13fd87917b08dde7e746aba6686c16 *R/my_appleads_data.R
+e11318c047fabdfc579ffee4b43d92b5 *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+c13dd60c9d8e02b9fc8d07c5372c26cd *data/my_appleads_data.RData
+aa475934870d44739e4747e781d4d917 *inst/doc/tutorial.R
+acc250e40620dd0b71fc7f34910a9c17 *inst/doc/tutorial.Rmd
+7d6146b077d9126b62955bb497d81673 *inst/doc/tutorial.html
+d8a510c47e36c7271ba7f37dccb6643e *man/fetch_appleads.Rd
+01f0ad3e8261dd73c2d9b165dcd6ecbb *man/my_appleads_data.Rd
+c13dd60c9d8e02b9fc8d07c5372c26cd *vignettes/my_appleads_data.RData
+acc250e40620dd0b71fc7f34910a9c17 *vignettes/tutorial.Rmd
